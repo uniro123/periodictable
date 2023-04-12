@@ -1,3 +1,10 @@
+table {
+    width: 100%;
+    margin-top: 10%;
+}
+h1 {
+    text-align: center;
+}
 tr, td{
     border: 1px solid black;
     text-align: center;
@@ -20,4 +27,15 @@ tr, td{
     font-family: arial;
     font-size: 90%;
     font-weight: 600;
+}
+.erase {
+    empty-cells: hide;
+}
+.side{
+    padding-left: 38px;
+    empty-cells: hide;
+}
+.down {
+    padding: 25px;
+    empty-cells: hide;
 }
