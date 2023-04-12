@@ -1,0 +1,23 @@
+tr, td{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 5%;
+}
+.atomicnum {
+    margin-left: 0;
+    font-size: 84%;
+}
+.atomicmass{
+    margin-left: 30%;
+    font-size: 84%;
+}
+.symbol {
+    font-size: 200%;
+    font-family: arial;
+    font-weight: bolder;
+}
+.name {
+    font-family: arial;
+    font-size: 90%;
+    font-weight: 600;
+}
