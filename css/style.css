@@ -4,6 +4,7 @@
 table {
     width: 100%;
     margin-top: 10%;
+    table-layout: fixed;
 }
 h1 {
     text-align: center;
