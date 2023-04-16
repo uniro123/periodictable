@@ -13,6 +13,7 @@ tr, td{
     border: 1px solid black;
     text-align: center;
     border-radius: 5%;
+    overflow: hidden;
 }
 td:hover {
     transform: scale(1.2);
